@@ -1,0 +1,8 @@
+# IDE
+.idea/
+
+# Maven
+target/
+
+# Sensitive
+database.json
